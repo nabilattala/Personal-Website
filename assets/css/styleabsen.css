@@ -1,0 +1,28 @@
+.atas{
+    margin-top: 70px;
+    line-height: 40%;
+    text-align: center;
+}
+
+.logo1{
+    float: right;
+    padding: 20px;
+}
+
+.logo2{
+    float: left;
+    padding: 20px;
+}
+
+.bawahgaris{
+    text-align: center;
+    line-height: 40%;
+}
+
+.ttd{
+    float: right;
+}
+
+.ttd1{
+    float: left;
+}
